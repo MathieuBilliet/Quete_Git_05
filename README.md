@@ -1,3 +1,5 @@
+LOCAL
+
 # Quete_Git_05
 
 What is Lorem Ipsum?
